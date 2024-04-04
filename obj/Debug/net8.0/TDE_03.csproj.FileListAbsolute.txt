@@ -1,0 +1,15 @@
+C:\Users\bruno\Documents\2-Programacao\1- Ulbra\3-TerceiroSemestre\2-LaboratorioDeProgramacao\0-TDE'S\TDE_03\bin\Debug\net8.0\TDE_03.exe
+C:\Users\bruno\Documents\2-Programacao\1- Ulbra\3-TerceiroSemestre\2-LaboratorioDeProgramacao\0-TDE'S\TDE_03\bin\Debug\net8.0\TDE_03.deps.json
+C:\Users\bruno\Documents\2-Programacao\1- Ulbra\3-TerceiroSemestre\2-LaboratorioDeProgramacao\0-TDE'S\TDE_03\bin\Debug\net8.0\TDE_03.runtimeconfig.json
+C:\Users\bruno\Documents\2-Programacao\1- Ulbra\3-TerceiroSemestre\2-LaboratorioDeProgramacao\0-TDE'S\TDE_03\bin\Debug\net8.0\TDE_03.dll
+C:\Users\bruno\Documents\2-Programacao\1- Ulbra\3-TerceiroSemestre\2-LaboratorioDeProgramacao\0-TDE'S\TDE_03\bin\Debug\net8.0\TDE_03.pdb
+C:\Users\bruno\Documents\2-Programacao\1- Ulbra\3-TerceiroSemestre\2-LaboratorioDeProgramacao\0-TDE'S\TDE_03\obj\Debug\net8.0\TDE_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Documents\2-Programacao\1- Ulbra\3-TerceiroSemestre\2-LaboratorioDeProgramacao\0-TDE'S\TDE_03\obj\Debug\net8.0\TDE_03.AssemblyInfoInputs.cache
+C:\Users\bruno\Documents\2-Programacao\1- Ulbra\3-TerceiroSemestre\2-LaboratorioDeProgramacao\0-TDE'S\TDE_03\obj\Debug\net8.0\TDE_03.AssemblyInfo.cs
+C:\Users\bruno\Documents\2-Programacao\1- Ulbra\3-TerceiroSemestre\2-LaboratorioDeProgramacao\0-TDE'S\TDE_03\obj\Debug\net8.0\TDE_03.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Documents\2-Programacao\1- Ulbra\3-TerceiroSemestre\2-LaboratorioDeProgramacao\0-TDE'S\TDE_03\obj\Debug\net8.0\TDE_03.sourcelink.json
+C:\Users\bruno\Documents\2-Programacao\1- Ulbra\3-TerceiroSemestre\2-LaboratorioDeProgramacao\0-TDE'S\TDE_03\obj\Debug\net8.0\TDE_03.dll
+C:\Users\bruno\Documents\2-Programacao\1- Ulbra\3-TerceiroSemestre\2-LaboratorioDeProgramacao\0-TDE'S\TDE_03\obj\Debug\net8.0\refint\TDE_03.dll
+C:\Users\bruno\Documents\2-Programacao\1- Ulbra\3-TerceiroSemestre\2-LaboratorioDeProgramacao\0-TDE'S\TDE_03\obj\Debug\net8.0\TDE_03.pdb
+C:\Users\bruno\Documents\2-Programacao\1- Ulbra\3-TerceiroSemestre\2-LaboratorioDeProgramacao\0-TDE'S\TDE_03\obj\Debug\net8.0\TDE_03.genruntimeconfig.cache
+C:\Users\bruno\Documents\2-Programacao\1- Ulbra\3-TerceiroSemestre\2-LaboratorioDeProgramacao\0-TDE'S\TDE_03\obj\Debug\net8.0\ref\TDE_03.dll
